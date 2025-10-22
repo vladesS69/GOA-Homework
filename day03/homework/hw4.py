@@ -1,5 +1,5 @@
-a = 5
-b = "3"
+# a = 5
+# b = "3"
 
 sum = a + int(b)
 print(sum)
@@ -34,16 +34,15 @@ else:
 
 
 
-my_name = "saba" 
-print("saba")
+my_name = "saba"
+print(my_name)
 age = 16
-print("16")
+print(age)
 city = "tbilisi"
-print("tbilisi")
+print(city)
 height = 1.75
-print("1.75")
-country = "georgia"
-print("georgia")
+print(height)
+
 
 
 a = 10
@@ -110,5 +109,4 @@ else:
 
 
 #done
-
 
