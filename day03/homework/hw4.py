@@ -1,8 +1,3 @@
-# a = 5
-# b = "3"
-
-sum = a + int(b)
-print(sum)
 
 
 
@@ -65,7 +60,7 @@ print("50 (*):", num1 * num2)
 
 # გაყოფისას ვამოწმებთ ნულზე გაყოფას
 if num2 != 0:
-    print("2 (/):", num1 / num2)
+    print("2 (/):" , num1 / num2)
 else:
     print("ნულზე გაყოფა შეუძლებელია!")
 
@@ -74,7 +69,7 @@ else:
 my_name = "Saba"
 
 # მომხმარებლისგან სახელის მიღება
-user_name = input("Giorgi ")
+user_name = input( "Giorgi ")
 
 # შევამოწმოთ ემთხვევა თუ არა
 if user_name == my_name:
