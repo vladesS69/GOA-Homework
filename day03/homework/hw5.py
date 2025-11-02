@@ -114,3 +114,16 @@ for i in range(5):
 
 
 
+#count = 0  # საწყისი მნიშვნელობა
+#while count < 5:  # პირობა
+    #print("Count არის:", count)  # მოქმედება
+    #count += 1  # განახლება
+count = 0  # საწყისი მნიშვნელობა
+while count < 5:  # პირობა
+    print("Count არის:", count)  # მოქმედება
+    count += 1  # განახლება
+#done
+ 
+
+
+

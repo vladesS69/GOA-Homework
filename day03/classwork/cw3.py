@@ -87,3 +87,22 @@
 
 
 
+#print(5==5 and 10 + 7 > 20)
+
+#print(True and 10  > 5 or false)
+
+
+#print(True and 5 > 10 or False)
+
+
+
+
+#print(True and 20 * 5  == 100 and False or True  or 7 > 5  and 10 / 2  == 5.0 or False and  False  and "Saba" == "Gio" or True)
+
+
+#and 
+#or
+
+
+
+#done
